@@ -7,20 +7,41 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e51f8ddb-1567-477b-ab04-9b72f2d8b71b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_11.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labs/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labs/labs.csproj" afterDir="false" />
+    <list default="true" id="e51f8ddb-1567-477b-ab04-9b72f2d8b71b" name="Changes" comment="initial commit">
+      <change afterPath="$PROJECT_DIR$/BankLibrary/AccountType.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BankLibrary/BankAccount.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BankLibrary/BankAccountFactory.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BankLibrary/BankTransaction.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BankLibrary/IBankAccount.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.homework_11/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.homework_11/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_11.sln" beforeDir="false" afterPath="$PROJECT_DIR$/homework_11.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/labs/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/labs.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/labs/labs.csproj" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DpaMonitoringSettings">
+    <option name="autoShow" value="false" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "quintrrr"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/quintrrr/homework_11.git",
+    "accountId": "e314af30-73a1-459b-ab0e-04f5d045d475"
+  }
+}]]></component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 4
 }]]></component>
@@ -32,6 +53,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    ".NET Project.labs.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "node.js.detected.package.eslint": "true",
@@ -39,6 +61,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "configurable.group.build",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -70,15 +93,27 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1737616589873</updated>
-      <workItem from="1737616591137" duration="1276000" />
+      <workItem from="1737616591137" duration="12385000" />
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1737634029381</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1737634029381</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
 </project>
